@@ -1,0 +1,34 @@
+clrmamepro (
+	name "Sega - Game Gear"
+	description "Sega - Game Gear"
+	version "2025.11.10"
+	homepage "http://github.com/robloach/libretro-dats"
+)
+
+game (
+	name "5 in One FunPak (USA)"
+	region "USA"
+	rom ( name "5 in One FunPak (USA).gg" size 262144 crc F85A8CE8 md5 4E3DFE079044737F26153615E5155214 sha1 DC8F5848FEDE37A914DBF1C104C3EFB5A804CCBD )
+)
+game (
+	name "Aa Harimanada (Japan)"
+	region "Japan"
+	rom ( name "Aa Harimanada (Japan).gg" size 524288 crc 1D17D2A0 md5 DA0523E29F893FB81E5F2E89B2FB240A sha1 0FA7111FCD98670D4BEF725D11E670E14EAAA7EB )
+)
+game (
+	name "Addams Family, The (World)"
+	rom ( name "Addams Family, The (World).gg" size 262144 crc 1D01F999 md5 F4F3211738002369B9ADA7A099E33A45 sha1 3231D574E5EB0AC3A77B1D65D74F3A581819A9C7 )
+)
+game (
+	name "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En)"
+	region "USA"
+	rom ( name "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En).gg" size 524288 crc BB4F23FF md5 A684CBA5F11C4E4E3E6CB71A0D73C702 sha1 50E8726BE1B26D066EA9E2E2B5CD7407C356187E )
+)
+game (
+	name "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta)"
+	releaseyear "1995"
+	releasemonth "04"
+	releaseday "27"
+	region "USA"
+	rom ( name "Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-04-27).gg" size 524278 crc ACCE0D15 md5 5913EC1BBC095860334F5857D43FF047 sha1 AC60F308640EEA536BB3007D2A0B78D95B81D160 )
+)
