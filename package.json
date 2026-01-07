@@ -1,6 +1,6 @@
 {
   "name": "@retrobrainz/dat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "read and write .dat files",
   "type": "module",
   "exports": {
