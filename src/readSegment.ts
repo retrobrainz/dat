@@ -16,7 +16,7 @@ export default function readSegment(
       } else {
         quoted = true;
       }
-    } else if (char === ' ') {
+    } else if (char === ' ' || char === '\t') {
       if (quoted) {
         key += char;
       } else if (key.length > 0) {
