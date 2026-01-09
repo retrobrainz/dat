@@ -1,10 +1,10 @@
 # Changelog
 
-## 1.1.0 - 2026-01-07
+## 1.1.0 - 2026-01-09
 
 - Added `stringify()` function with indentation support
 
-## 1.0.1 - 2026-01-07
+## 1.0.1 - 2026-01-08
 
 - Fixed bug where `readSegment()` would not read keys that contained tabs
 
