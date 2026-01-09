@@ -1,6 +1,6 @@
 {
   "name": "@retrobrainz/dat",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "read and write .dat files",
   "license": "GPL-3.0-only",
   "type": "module",
